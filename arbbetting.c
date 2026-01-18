@@ -4,7 +4,7 @@
 
 typedef struct
 {
-    char home_team[100];a
+    char home_team[100];
     char away_team[100];
     double x1;          // Team 1
     char x1_bookmaker[50];
@@ -138,5 +138,6 @@ int main()
     fclose(file);
     return 0;
 }
+
 
 
