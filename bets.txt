@@ -1,0 +1,23 @@
+Wolverhampton Wanderers|Newcastle United|4.8|Betfair|1.8|Smarkets|4.12|1xBet
+Aston Villa|Everton|1.69|1xBet|6.2|Betfair|4.1|Smarkets
+Brighton and Hove Albion|Bournemouth|1.93|Smarkets|4.1|Coolbet|4.2|Betfair
+West Ham United|Sunderland|2.51|1xBet|3.15|Betfair|3.5|Unibet (SE)
+Fulham|Brighton and Hove Albion|2.66|1xBet|2.9|Unibet (NL)|3.55|Matchbook
+Burnley|Tottenham Hotspur|4.1|Unibet (NL)|2.1|Betfair|3.7|1xBet
+Manchester City|Wolverhampton Wanderers|1.21|1xBet|18.0|LeoVegas|9.0|Winamax (DE)
+Bournemouth|Liverpool|3.9|Unibet (NL)|2.0|Matchbook|4.1|LeoVegas
+Newcastle United|Aston Villa|2.12|1xBet|3.65|Unibet (SE)|3.8|1xBet
+Brentford|Nottingham Forest|2.23|1xBet|3.7|Betfair|3.55|Betfair
+Crystal Palace|Chelsea|3.7|Betfair|2.12|1xBet|3.9|Nordic Bet
+Arsenal|Manchester United|1.66|1xBet|6.75|Unibet (SE)|4.2|FanDuel
+Everton|Leeds United|2.6|1xBet|3.3|Unibet (NL)|3.35|Nordic Bet
+Leeds United|Arsenal|6.19|1xBet|1.65|1xBet|4.1|Betsson
+Wolverhampton Wanderers|Bournemouth|3.48|1xBet|2.17|1xBet|3.76|1xBet
+Brighton and Hove Albion|Everton|1.98|Nordic Bet|4.26|1xBet|3.65|1xBet
+Chelsea|West Ham United|1.45|1xBet|7.42|1xBet|5.3|Nordic Bet
+Liverpool|Newcastle United|1.9|1xBet|4.12|1xBet|4.07|1xBet
+Aston Villa|Brentford|2.01|1xBet|4.0|FanDuel|3.81|1xBet
+Nottingham Forest|Crystal Palace|2.42|1xBet|3.2|1xBet|3.46|1xBet
+Manchester United|Fulham|1.8|1xBet|4.9|FanDuel|4.04|1xBet
+Tottenham Hotspur|Manchester City|5.43|1xBet|1.66|1xBet|4.4|1xBet
+Sunderland|Burnley|1.75|1xBet|5.63|1xBet|3.73|1xBet
