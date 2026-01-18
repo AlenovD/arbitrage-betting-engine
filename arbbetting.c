@@ -6,19 +6,18 @@ typedef struct
 {
     char home_team[100];a
     char away_team[100];
-    double x1;          // Home team odds
+    double x1;          // Team 1
     char x1_bookmaker[50];
-    double x2;          // Away team odds
+    double x2;          // Team 2
     char x2_bookmaker[50];
-    double tie;         // Draw odds
+    double tie;         // Draw 
     char tie_bookmaker[50];
 } Bet;
 
 _Bool isbetgood(Bet thebet)
 {
     double sum = 1 / thebet.x1 + 1 / thebet.x2 + 1 / thebet.tie;
-    // Uncomment the line below for debugging
-    // printf("Sum for %s vs %s: %.4f\n", thebet.home_team, thebet.away_team, sum);
+    // Check if bet is profitable
     return sum < 1;
 }
 
@@ -40,12 +39,12 @@ Bet *nicebetfiltration(FILE *ifile, int *count)
 
     char line[512];
 
+    //goes through the bets.txt and determines whether the bets present are profitable
     while (fgets(line, sizeof(line), ifile))
     {
         // Remove newline character if present
         line[strcspn(line, "\n")] = '\0';
 
-        // Parse the line using '|' as delimiter
         char *token = strtok(line, "|");
         if (token == NULL) continue;
         strcpy(tempBet.home_team, token);
@@ -139,4 +138,5 @@ int main()
     fclose(file);
     return 0;
 }
+
 
